@@ -6,7 +6,6 @@ import java.util.Scanner;
  * 文字列の結合
  * @author hiroshi.kobayashi
  * @create 2018-07-01
- * @since
  */
 public class D004Main {
         public static void main(String[] args){
