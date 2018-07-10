@@ -8,7 +8,7 @@ import java.util.*;
  * @create 2018-07-01
  */
 
- public class D007Main {
+ public class Main {
     public static void main(String args[] ) throws Exception {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
