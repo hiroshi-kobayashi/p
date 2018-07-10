@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author hiroshi.kobayashi
  * @create 2018-07-01
  */
-public class D004Main {
+public class Main {
         public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
             int n = sc.nextInt();
