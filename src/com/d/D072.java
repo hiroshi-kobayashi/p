@@ -1,4 +1,4 @@
-package com.c;
+package com.d;
 
 import java.util.Scanner;
 
