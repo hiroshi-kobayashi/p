@@ -15,6 +15,3 @@ public class D074 {
         System.out.println(time%24);
     }
 }
-
-
-【Java】時間の表記のサンプルコード
